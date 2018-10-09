@@ -2,7 +2,7 @@
 
 # Investigating Olympic History Dataset
 
-Here we will be using 120 years of Olympic history dataset from kaggle which gives us all the basic information about athletes and results including all the Games from Athens 1896 to Rio 2016.
+Here we will be using 120 years of Olympic history dataset from <a href="http://www.yahoo.com">kaggle</a> which gives us all the basic information about athletes and results including all the Games from Athens 1896 to Rio 2016.
 
 The given data set gives us all the information about the athletes, games, teams in Olympics
 
