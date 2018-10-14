@@ -6,7 +6,35 @@ Here we will be using 120 years of Olympic history dataset from <a href="https:/
 
 The given data set gives us all the information about the athletes, games, teams in Olympics
 
-In this report we will mainly concentrate on the performance of team India and Indian atheletes in Olympics.
+In this report, we will mainly concentrate on the performance of team India and Indian athletes in the Olympics.
+
+# Environment and Installation 
+
+Here we will be using python3 and jupyter notebook.
+
+we can install python using anaconda. For Jupyter please follow the link https://anaconda.org/anaconda/jupyter
+
+After installing Python and Jupyter notebook please make sure to install the given libraries and frameworks
+
+* Pandas
+
+``` conda install pandas ```
+
+* NumPy
+
+* Matplotlib
+
+we get NumPy and Matplotlib when we install Pandas as dependencies
+
+* Seaborn
+
+``` conda install -c anaconda seaborn  ```
+
+* Wordcloud
+
+```conda install -c conda-forge wordcloud ```
+
+# Explanatory Analysis and Visualization
 
 Here is a glimpse of the analysis
 
